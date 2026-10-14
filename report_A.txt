@@ -1,0 +1,5 @@
+Band A report
+Learners: 3   Average GPA: 3.80
+  Evangelyn roll 1   gpa 3.9
+  Merit    roll 4   gpa 3.9
+  Allan    roll 6   gpa 3.6

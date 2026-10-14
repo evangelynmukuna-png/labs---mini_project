@@ -1,0 +1,4 @@
+Band C report
+Learners: 2   Average GPA: 2.65
+  Kyla     roll 5   gpa 2.4
+  Tanaka   roll 7   gpa 2.9

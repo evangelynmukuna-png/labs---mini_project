@@ -1,0 +1,5 @@
+Band B report
+Learners: 3   Average GPA: 3.10
+  Tariro   roll 2   gpa 3.2
+  Faith    roll 3   gpa 3.1
+  Tino     roll 8   gpa 3.0

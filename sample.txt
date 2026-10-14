@@ -1,0 +1,4 @@
+Java is fun.
+Objects keep code organised.
+
+Files and streams are next!
